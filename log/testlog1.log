@@ -1,0 +1,120 @@
+2024-03-13 19:56:50,071 [main] INFO WebDriverUtils - Enter Username and password
+2024-03-13 19:56:50,359 [main] INFO WebDriverUtils - Enter Username and password
+2024-03-13 19:56:59,268 [main] INFO WebDriverUtils - Click On button
+2024-03-13 19:57:00,644 [main] INFO WebDriverUtils - Click On Hamberger Menu
+2024-03-13 19:57:02,593 [main] INFO WebDriverUtils - Click On ViewAll link
+2024-03-13 19:57:09,471 [main] INFO WebDriverUtils - Type Commerce in search box
+2024-03-13 19:57:09,700 [main] INFO WebDriverUtils - Click On Commerce Link
+2024-03-14 15:37:01,702 [main] INFO WebDriverUtils - Browser launch and Url Logs:
+2024-03-14 15:37:05,160 [main] INFO WebDriverUtils - SendKeys Logs:
+2024-03-14 15:37:05,162 [main] INFO WebDriverUtils - Enter username and password
+2024-03-14 15:37:05,382 [main] INFO WebDriverUtils - SendKeys Logs:
+2024-03-14 15:37:05,384 [main] INFO WebDriverUtils - Enter username and password
+2024-03-14 15:37:14,446 [main] INFO WebDriverUtils - Click Logs:
+2024-03-14 15:37:14,448 [main] INFO WebDriverUtils - Click on button
+2024-03-14 15:37:14,856 [main] INFO WebDriverUtils - Navigate to commerce logs:
+2024-03-14 15:37:14,858 [main] INFO WebDriverUtils - Click on Hamberger Menu
+2024-03-14 15:37:16,526 [main] INFO WebDriverUtils - Click on ViewAll link
+2024-03-14 15:37:19,952 [main] INFO WebDriverUtils - Type Commerce in search box
+2024-03-14 15:37:20,112 [main] INFO WebDriverUtils - Click On Commerce Link
+2024-03-14 15:37:23,784 [main] INFO WebDriverUtils - Navigate to Account Logs:
+2024-03-14 15:37:23,785 [main] INFO WebDriverUtils - Click on Navigation Menu
+2024-03-14 15:37:24,252 [main] INFO WebDriverUtils - Click on Account option
+2024-03-14 15:37:26,284 [main] INFO WebDriverUtils - Create new account logs:
+2024-03-14 15:37:26,287 [main] INFO WebDriverUtils - Click on new Account
+2024-03-14 15:37:30,292 [main] INFO WebDriverUtils - Enter Account name
+2024-03-14 15:37:30,849 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:37:36,022 [main] INFO WebDriverUtils - Click on close new account window
+2024-03-14 15:37:42,105 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:37:43,735 [main] INFO WebDriverUtils - View all recent records Logs:
+2024-03-14 15:37:43,737 [main] INFO WebDriverUtils - Click on show navigation menu
+2024-03-14 15:37:43,973 [main] INFO WebDriverUtils - Click on close home navigation menu
+2024-03-14 15:37:50,669 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:37:56,092 [main] INFO WebDriverUtils - Click on view all recent records
+2024-03-14 15:38:01,642 [main] INFO WebDriverUtils - Click on close recent records window
+2024-03-14 15:38:01,819 [main] INFO WebDriverUtils - Click on show navigation menu
+2024-03-14 15:38:02,229 [main] INFO WebDriverUtils - Click on account option
+2024-03-14 15:38:03,125 [main] INFO WebDriverUtils - EditAdd Account Logs:
+2024-03-14 15:38:03,126 [main] INFO WebDriverUtils - Click on account checkbox
+2024-03-14 15:38:08,303 [main] INFO WebDriverUtils - Click on open account edit option
+2024-03-14 15:38:08,963 [main] INFO WebDriverUtils - Click on edit
+2024-03-14 15:38:10,250 [main] INFO WebDriverUtils - Clear the text box
+2024-03-14 15:38:10,762 [main] INFO WebDriverUtils - Enter account name
+2024-03-14 15:38:11,212 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:38:12,686 [main] INFO WebDriverUtils - Click on new account
+2024-03-14 15:38:13,666 [main] INFO WebDriverUtils - Enter account name
+2024-03-14 15:38:13,926 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:38:15,952 [main] INFO WebDriverUtils - Click on close update account window
+2024-03-14 15:38:16,903 [main] INFO WebDriverUtils - Click on new account
+2024-03-14 15:38:17,587 [main] INFO WebDriverUtils - Enter account name
+2024-03-14 15:38:17,780 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:38:19,099 [main] INFO WebDriverUtils - Close update account window
+2024-03-14 15:38:24,502 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:38:27,321 [main] INFO WebDriverUtils - View updated recent records Logs:
+2024-03-14 15:38:27,323 [main] INFO WebDriverUtils - Click on show navigation menu
+2024-03-14 15:38:28,090 [main] INFO WebDriverUtils - Click on home navigation
+2024-03-14 15:38:33,476 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:38:38,929 [main] INFO WebDriverUtils - Click on view all recent records
+2024-03-14 15:38:44,474 [main] INFO WebDriverUtils - Click on close recent records window
+2024-03-14 15:38:44,528 [main] INFO WebDriverUtils - Hover on account in recent record Logs:
+2024-03-14 15:38:44,529 [main] INFO WebDriverUtils - Hover on recent records
+2024-03-14 15:38:50,447 [main] INFO WebDriverUtils - Click on account in recent record Logs:
+2024-03-14 15:38:50,448 [main] INFO WebDriverUtils - Click on records
+2024-03-14 15:38:52,755 [main] INFO WebDriverUtils - Click on create new contact
+2024-03-14 15:38:54,982 [main] INFO WebDriverUtils - Select salutation
+2024-03-14 15:38:55,549 [main] INFO WebDriverUtils - Enter last name
+2024-03-14 15:38:55,849 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:38:57,755 [main] INFO WebDriverUtils - Click on details tab
+2024-03-14 15:38:58,619 [main] INFO WebDriverUtils - Click to edit mobile number
+2024-03-14 15:38:58,833 [main] INFO WebDriverUtils - Enter mobile number
+2024-03-14 15:38:59,228 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:39:04,371 [main] INFO WebDriverUtils - Click to close update contact window
+2024-03-14 15:39:09,513 [main] INFO WebDriverUtils - Click to quit updated contact window
+2024-03-14 15:39:09,820 [main] INFO WebDriverUtils - Account search Logs:
+2024-03-14 15:39:09,821 [main] INFO WebDriverUtils - Click on show navigation menu
+2024-03-14 15:39:10,301 [main] INFO WebDriverUtils - Click account option
+2024-03-14 15:39:11,435 [main] INFO WebDriverUtils - Search an account
+2024-03-14 15:39:12,177 [main] INFO WebDriverUtils - Clear search
+2024-03-14 15:39:12,509 [main] INFO WebDriverUtils - Search another account
+2024-03-14 15:39:13,107 [main] INFO WebDriverUtils - Clear search
+2024-03-14 15:39:13,591 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:39:16,832 [main] INFO WebDriverUtils - Delete account logs:
+2024-03-14 15:39:16,833 [main] INFO WebDriverUtils - Click on account checkbox
+2024-03-14 15:39:16,833 [main] INFO WebDriverUtils - Click on account checkbox
+2024-03-14 15:39:17,446 [main] INFO WebDriverUtils - Click on account edit section
+2024-03-14 15:39:17,960 [main] INFO WebDriverUtils - Click on delete
+2024-03-14 15:39:18,728 [main] INFO WebDriverUtils - Click on delete
+2024-03-14 15:39:19,002 [main] INFO WebDriverUtils - Navigate contacts logs:
+2024-03-14 15:39:19,004 [main] INFO WebDriverUtils - Click on show navigation menu
+2024-03-14 15:39:19,394 [main] INFO WebDriverUtils - Click contact
+2024-03-14 15:39:20,995 [main] INFO WebDriverUtils - Create contacts logs:
+2024-03-14 15:39:20,996 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:39:26,531 [main] INFO WebDriverUtils - Click to create new contact
+2024-03-14 15:39:27,682 [main] INFO WebDriverUtils - Select salutation
+2024-03-14 15:39:28,135 [main] INFO WebDriverUtils - Enter last name
+2024-03-14 15:39:28,584 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:39:33,732 [main] INFO WebDriverUtils - Close updated contact window
+2024-03-14 15:39:39,119 [main] INFO WebDriverUtils - Refresh the browser
+2024-03-14 15:39:44,354 [main] INFO WebDriverUtils - List Intelligence View Logs:
+2024-03-14 15:39:44,356 [main] INFO WebDriverUtils - Click on list view
+2024-03-14 15:39:49,725 [main] INFO WebDriverUtils - Click on intelligence view
+2024-03-14 15:39:55,147 [main] INFO WebDriverUtils - Mark contacts logs:
+2024-03-14 15:39:55,148 [main] INFO WebDriverUtils - Click on on mark contact
+2024-03-14 15:40:00,537 [main] INFO WebDriverUtils - Click on mark contact again
+2024-03-14 15:40:00,929 [main] INFO WebDriverUtils - Edit contact logs:
+2024-03-14 15:40:00,930 [main] INFO WebDriverUtils - Open contact edit section
+2024-03-14 15:40:02,202 [main] INFO WebDriverUtils - Click on edit
+2024-03-14 15:40:03,773 [main] INFO WebDriverUtils - Enter title
+2024-03-14 15:40:03,985 [main] INFO WebDriverUtils - Click on save
+2024-03-14 15:40:05,026 [main] INFO WebDriverUtils - Delete contact Logs:
+2024-03-14 15:40:05,028 [main] INFO WebDriverUtils - Open contact edit section
+2024-03-14 15:40:05,668 [main] INFO WebDriverUtils - Click on delete
+2024-03-14 15:40:06,145 [main] INFO WebDriverUtils - Click on delete again
+2024-03-14 15:40:06,608 [main] INFO WebDriverUtils - Switch Classic View Logs:
+2024-03-14 15:40:06,615 [main] INFO WebDriverUtils - Click on logout image icon
+2024-03-14 15:40:13,525 [main] INFO WebDriverUtils - Click on switch to classic view
+2024-03-14 15:40:19,136 [main] INFO WebDriverUtils - Switch Light View Logs:
+2024-03-14 15:40:19,138 [main] INFO WebDriverUtils - Click on switch to light view
+2024-03-14 15:40:21,360 [main] INFO WebDriverUtils - SalesForce Logout Logs:
+2024-03-14 15:40:21,361 [main] INFO WebDriverUtils - Click on logout image
+2024-03-14 15:40:24,585 [main] INFO WebDriverUtils - Click on logout link

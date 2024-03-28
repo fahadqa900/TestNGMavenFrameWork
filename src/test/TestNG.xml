@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+<test name="SalesForceTestRunnerDemo">
+<classes>
+<class name="com.metlife.testsuite.LoginModule"/>
+<class name="com.metlife.testsuite.NavigateToCommerceModule"/>
+<class name="com.metlife.testsuite.NavigateToAccountSection"/>
+<class name="com.metlife.testsuite.CreateAccountSection"/>
+<class name="com.metlife.testsuite.ViewAllRecentRecordsSection"/>
+<class name="com.metlife.testsuite.EditAddAccountSection"/>
+<class name="com.metlife.testsuite.ViewUpdatedRecentRecordsSection"/>
+<class name="com.metlife.testsuite.HoverOnAccountInRecentRecordsSection"/>
+<class name="com.metlife.testsuite.ClickOnAccountInRecentRecordsSection"/>
+<class name="com.metlife.testsuite.AccountSearchFeature"/>
+<class name="com.metlife.testsuite.DeleteAccountFeature"/>
+<class name="com.metlife.testsuite.NavigateToContactSection"/>
+<class name="com.metlife.testsuite.CreateContactSection"/>
+<class name="com.metlife.testsuite.ListIntelligenceViewSection"/>
+<class name="com.metlife.testsuite.MarkContactFeature"/>
+<class name="com.metlife.testsuite.EditContactSection"/>
+<class name="com.metlife.testsuite.DeleteContactSection"/>
+<class name="com.metlife.testsuite.SwitchToClassicViewSection"/>
+<class name="com.metlife.testsuite.SwitchToLightViewSection"/>
+<class name="com.metlife.testsuite.LogoutSection"/>
+</classes>
+</test>
+</suite>
